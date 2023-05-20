@@ -1,0 +1,7 @@
+{
+    "server": {
+        "host": "",
+        "port": 80
+    },
+    "database": ""
+}
